@@ -1,0 +1,1 @@
+// WAP to sort an array of n integers in an ascending order using merge sort.
